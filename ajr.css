@@ -90,3 +90,8 @@
 .jobtbl ul{
         margin: 5px 0px 10px 20px;
 }
+
+.lastinfc h5{    padding-bottom: 0px;    margin-bottom: 0px;}
+.lastinfc a{ 
+        color: #cd1e14 !important; margin-bottom: 9px; display: block;
+}
