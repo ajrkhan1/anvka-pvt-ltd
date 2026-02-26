@@ -18,7 +18,7 @@
     padding: 8px;
     border-radius: 6px;
     color: #000000 !important;
-    width: 32.33%;
+
     display: inline-block;
     text-align: center;
 }
@@ -81,4 +81,12 @@
 .jobtbl th {
   border: 1px solid #ddd;
   padding: 8px;
+}
+.jobtbl h6{
+        margin-bottom: 0px;
+    padding-bottom: 0px;
+}
+
+.jobtbl ul{
+        margin: 5px 0px 10px 20px;
 }
