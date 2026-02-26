@@ -95,3 +95,10 @@
 .lastinfc a{ 
         color: #cd1e14 !important; margin-bottom: 9px; display: block;
 }
+.langge{margin-bottom: 20px;}
+.langge h5{
+        color: #cd1e14;
+    font-size: 16px;
+    font-weight: 600;
+    margin-bottom: 3px;
+}
